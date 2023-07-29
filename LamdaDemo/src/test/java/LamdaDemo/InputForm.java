@@ -23,8 +23,8 @@ public class InputForm {
 		 capabilities.setCapability("browserName", "Chrome");
 	     capabilities.setCapability("browserVersion", "114.0");
 		HashMap<String, Object> ltOptions = new HashMap<String, Object>();
-		ltOptions.put("username", "alwinantony1402");
-		ltOptions.put("accessKey", "FGZ6Y6YDjM4EwPxHKEuw5LESK2bVVIV9Cz063TmctntTnkLRVM");
+		ltOptions.put("username", "LT_USERNAME");
+		ltOptions.put("accessKey", "LT_ACCESS_KEY");
 		ltOptions.put("visual", true);
 		ltOptions.put("video", true);
 		ltOptions.put("network", true);
